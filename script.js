@@ -3,7 +3,7 @@
 
   Ganti WHATSAPP_NUMBER dengan nomor admin resmi:
   contoh: 6281234567890
-  Gunakan kode negara 62, tanpa tanda +, spasi, atau angka 0 di depan.-
+  Gunakan kode negara 62, tanpa tanda +, spasi, atau angka 0 di depan.
 
   Link Instagram, Facebook, dan TikTok sudah dipasang di index.html.
 */
