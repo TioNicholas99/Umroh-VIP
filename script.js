@@ -7,7 +7,7 @@
 
   Link Instagram, Facebook, dan TikTok sudah dipasang di index.html.
 */
-const WHATSAPP_NUMBER = "GANTI_DENGAN_NOMOR_ADMIN";
+const WHATSAPP_NUMBER = "6288297192931";
 const WHATSAPP_MESSAGE =
   "Assalamu’alaikum, saya ingin konsultasi paket Umroh Family VIP dan informasi keberangkatan.";
 
